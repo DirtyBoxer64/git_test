@@ -1,0 +1,24 @@
+[33mcommit 211d9f84cea531666d7ffe7d1c3c86518492e3aa[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: DirtyBoxer64 <172329046+DirtyBoxer64@users.noreply.github.com>
+Date:   Wed Jun 26 17:46:25 2024 -0400
+
+    This is a text file of a whale.
+    I really need to be more orcanized.
+
+[33mcommit 9e7a6d69b96de94d21e62b2466f56931fb80605e[m
+Author: DirtyBoxer64 <172329046+DirtyBoxer64@users.noreply.github.com>
+Date:   Wed Jun 26 16:49:07 2024 -0400
+
+    Edit README.md and hello_world.txt
+
+[33mcommit 53156e62035654270b40d74082edaaea2a9cbd6f[m
+Author: DirtyBoxer64 <172329046+DirtyBoxer64@users.noreply.github.com>
+Date:   Wed Jun 26 16:44:05 2024 -0400
+
+    Add hello_world.txt
+
+[33mcommit 283bc18cc989c4964c9210372f7bc99105d50f04[m
+Author: DirtyBoxer64 <172329046+DirtyBoxer64@users.noreply.github.com>
+Date:   Wed Jun 26 16:38:23 2024 -0400
+
+    Initial commit
